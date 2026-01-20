@@ -1,0 +1,91 @@
+# **HackerRank – Solutions & Write-ups**
+
+Ce dépôt contient mes solutions personnelles aux exercices de la plateforme **HackerRank**.
+
+Il s’inscrit dans une démarche d’**apprentissage progressif**, de **structuration de ma logique algorithmique** et de **préparation aux tests techniques**.
+
+🌐 Plateforme : https://www.hackerrank.com
+
+---
+
+## 🎯 Objectifs
+
+- Renforcer ma compréhension des **fondamentaux JavaScript, SQL, etc...**
+- Travailler la **résolution de problèmes**
+- Ecrire un code **lisible et structuré**
+- Documenter mon raisonnement
+
+---
+
+## 📚 Table des matières
+
+- [📁 Organisation du dépôt](#-organisation-du-dépôt)
+- [🧠 Algorithmes](#-algorithms)
+- [🗃️ Data Structures](#️-data-structures)
+- [💾 SQL](#-sql)
+- [📈 Mise à jour](#-mise-à-jour)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📁 Organisation du dépôt
+
+```
+hackerrank-solutions/
+  ├── algorithms/
+  │ ├── easy/
+  │ ├── medium/
+  │ └── hard/
+  ├── data-structures/
+  ├── sql/
+  └── javascript/
+```
+
+- Un exercice dans un language spécifique = un fichier
+- Nom de fichier explicite
+- Langage principal : **JavaScript**, **SQL**, **etc...**
+
+---
+
+## 🧠 Algorithms
+
+| Difficulté | Exercice | Langage | Statut |
+| ---------- | -------- | ------- | ------ | ---- | --- |
+| <!--       | Easy     | .....   | ....   | ✅⏳ | --> |
+
+---
+
+## 🗃️ Data Structures
+
+| Type | Exercice | Statut |
+| ---- | -------- | ------ |
+
+---
+
+## 💾 SQL
+
+| Niveau | Sujet | Statut |
+| ------ | ----- | ------ |
+
+---
+
+## 📈 Mise à jour
+
+Dernière mise à jour : **Janvier 2026**
+
+---
+
+## ⚠️ Disclaimer
+
+Ces solutions sont partagées à des fins **pédagogiques**.  
+Elles reflètent mon niveau à un instant précis et mon raisonnement à ce même moment donné.
+
+---
+
+## 🙌 À mon propos
+
+💼 Développeuse web junior en reconversion
+
+🌐 Portfolio : https://floriane-maffei.vercel.app/
+
+🌐 Site write-ups : https://writeupsbyfloriane.vercel.app/
