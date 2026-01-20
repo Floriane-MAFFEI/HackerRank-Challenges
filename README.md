@@ -49,9 +49,9 @@ hackerrank-solutions/
 
 ## 🧠 Algorithms
 
-| Difficulté | Exercice | Langage | Statut |
-| ---------- | -------- | ------- | ------ | ---- | --- |
-| <!--       | Easy     | .....   | ....   | ✅⏳ | --> |
+| Difficulté | Exercice                                                                                         | Langage                                                                                                                      | Statut |
+| ---------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Easy       | [30 Days of Code - Days 0 : Hello World](./Algorithms/Easy/30-Days-of-Code-Day-0-Hello-World.js) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 
 ---
 
