@@ -52,6 +52,7 @@ hackerrank-solutions/
 | Difficulté | Exercice                                                                                         | Langage                                                                                                                      | Statut |
 | ---------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Easy       | [30 Days of Code - Days 0 : Hello World](./Algorithms/Easy/30-Days-of-Code-Day-0-Hello-World.js) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 1 : Data Types](./Algorithms/Easy/30-Days-of-Code-Day-1-Data-Types.js)   | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 
 ---
 
@@ -64,8 +65,10 @@ hackerrank-solutions/
 
 ## 💾 SQL
 
-| Niveau | Sujet | Statut |
-| ------ | ----- | ------ |
+| Niveau | Sujet                                                                          | Langage                                                           | Statut |
+| ------ | ------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------ |
+| Easy   | [American Cities (Population > 100000)](./SQL/Easy/american-cities.sql)        | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
+| Easy   | [ Select Query (American Cities)](./SQL/Easy/Select-Query-american-cities.sql) | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
 
 ---
 
