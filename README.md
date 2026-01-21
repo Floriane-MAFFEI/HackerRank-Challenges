@@ -69,6 +69,8 @@ hackerrank-solutions/
 | ------ | ------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------ |
 | Easy   | [American Cities (Population > 100000)](./SQL/Easy/american-cities.sql)        | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
 | Easy   | [ Select Query (American Cities)](./SQL/Easy/Select-Query-american-cities.sql) | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
+| Easy   | [ Select All](./SQL/Easy/Select-All.sql)                                       | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
+| Easy   | [ Select by ID](./SQL/Easy/Select-by-ID.sql)                                   | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
 
 ---
 
