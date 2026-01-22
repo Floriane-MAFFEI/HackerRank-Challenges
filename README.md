@@ -53,6 +53,7 @@ hackerrank-solutions/
 | ---------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Easy       | [30 Days of Code - Days 0 : Hello World](./Algorithms/Easy/30-Days-of-Code-Day-0-Hello-World.js) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 | Easy       | [30 Days of Code - Days 1 : Data Types](./Algorithms/Easy/30-Days-of-Code-Day-1-Data-Types.js)   | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 2 : Operators](./Algorithms/Easy/30-Days-of-Code-Day-2-Operators.js)     | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 
 ---
 
@@ -71,6 +72,10 @@ hackerrank-solutions/
 | Easy   | [ Select Query (American Cities)](./SQL/Easy/Select-Query-american-cities.sql) | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
 | Easy   | [ Select All](./SQL/Easy/Select-All.sql)                                       | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
 | Easy   | [ Select by ID](./SQL/Easy/Select-by-ID.sql)                                   | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
+| Easy   | [ Japanese Cities' Attributes](./SQL/Easy/Japanese-Cities'-Attributes.sql)     | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
+| Easy   | [ Japanese Cities' Names](./SQL/Easy/Japanese-Cities'-Names.sql)               | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
+| Easy   | [ Weather Observation Station 1](./SQL/Easy/Weather-Observation-Station-1.sql) | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
+| Easy   | [ Weather Observation Station 2](./SQL/Easy/Weather-Observation-Station-2.sql) | ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) | ✅     |
 
 ---
 
