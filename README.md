@@ -49,11 +49,12 @@ hackerrank-solutions/
 
 ## 🧠 Algorithms
 
-| Difficulté | Exercice                                                                                         | Langage                                                                                                                      | Statut |
-| ---------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Easy       | [30 Days of Code - Days 0 : Hello World](./Algorithms/Easy/30-Days-of-Code-Day-0-Hello-World.js) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
-| Easy       | [30 Days of Code - Days 1 : Data Types](./Algorithms/Easy/30-Days-of-Code-Day-1-Data-Types.js)   | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
-| Easy       | [30 Days of Code - Days 2 : Operators](./Algorithms/Easy/30-Days-of-Code-Day-2-Operators.js)     | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Difficulté | Exercice                                                                                                                                 | Langage                                                                                                                      | Statut |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Easy       | [30 Days of Code - Days 0 : Hello World](./Algorithms/Easy/30-Days-of-Code-Day-0-Hello-World.js)                                         | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 1 : Data Types](./Algorithms/Easy/30-Days-of-Code-Day-1-Data-Types.js)                                           | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 2 : Operators](./Algorithms/Easy/30-Days-of-Code-Day-2-Operators.js)                                             | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 3 : Intro to Conditional Statements](./Algorithms/Easy/30-Days-of-Code-Day-3-Intro-to-Conditional-Statements.js) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 
 ---
 
