@@ -55,6 +55,9 @@ hackerrank-solutions/
 | Easy       | [30 Days of Code - Days 1 : Data Types](./Algorithms/Easy/30-Days-of-Code-Day-1-Data-Types.js)                                           | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 | Easy       | [30 Days of Code - Days 2 : Operators](./Algorithms/Easy/30-Days-of-Code-Day-2-Operators.js)                                             | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 | Easy       | [30 Days of Code - Days 3 : Intro to Conditional Statements](./Algorithms/Easy/30-Days-of-Code-Day-3-Intro-to-Conditional-Statements.js) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 4 : Class Vs. Instance](./Algorithms/Easy/30-Days-of-Code-Day-4-Class-Vs-Instance.js)                            | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 5 : Loops](./Algorithms/Easy/30-Days-of-Code-Day-5-Loops.js)                                                     | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
+| Easy       | [30 Days of Code - Days 6: Let's Review ](./Algorithms/Easy/30-Days-of-Code-Day-6-Let's-Review.js)                                       | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ✅     |
 
 ---
 
